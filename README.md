@@ -1,2 +1,2 @@
 Submitted by Bupe Mwakalinga
-lecturer@kadefue
+Lecturer: @kadefue
